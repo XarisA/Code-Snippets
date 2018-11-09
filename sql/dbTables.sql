@@ -1,0 +1,3 @@
+SELECT  top 100 * FROM INFORMATION_SCHEMA.TABLES
+where substring(TABLE_NAME,1,6)='f6103b'
+

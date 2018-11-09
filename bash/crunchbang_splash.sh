@@ -1,0 +1,26 @@
+#!/bin/bash
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo "                                              MMM"
+echo "                                              MMM"
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo " "
+echo " "
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo "                     MMMM    MMMM    MMMM     MMM"
+echo " "
+echo " "
+echo " "
+echo " "
+sleep 2
+clear
